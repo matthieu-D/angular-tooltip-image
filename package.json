@@ -1,0 +1,35 @@
+{
+  "name": "angular-tooltip",
+  "version": "0.0.1",
+  "description": "a directive based on wTooltip for image purpose",
+  "author": "Matthieu DRULA",
+  "contributors": [
+    {
+      "name": "Matthieu Drula",
+      "email": "Matthieu Drula <matthieu.drula@gmail.com>"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "readmeFilename": "README.md",
+  "private": true,
+  "keywords": [
+    "Tooltip",
+    "Image"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matthieu-D/angular-tooltip.git"
+  },
+  "dependencies": {
+    "bower": "~0.10.0",
+  },
+  "devDependencies": {
+    "karma": "~0.8.6",
+    "phantomjs": "~1.9.1-0"
+  }
+}
