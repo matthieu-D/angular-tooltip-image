@@ -17,3 +17,4 @@ Example:
       <img src='...'/>
   </span>
 ```
+PR accepted so Have Fun!
